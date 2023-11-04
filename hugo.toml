@@ -31,8 +31,8 @@ summaryLength = 30
   # enable_anchor_link = true
 
   [params.logo]
-      mobile = "/images/logo-mobile.svg"
-      standard  = "/images/logo.svg"
+      mobile = "https://tpimpinela.github.io/hugo_ssg/images/logo-mobile.svg"
+      standard  = "https://tpimpinela.github.io/hugo_ssg/images/logo.svg"
 
   [params.footer]
     copyright_text = 'Tomás Pimpinela Martínez'
