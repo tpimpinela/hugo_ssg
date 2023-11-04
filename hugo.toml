@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://tpimpinela.github.io/hugo_ssg/"
 theme = "hugo-whisper-theme"
 languageCode = "en-us"
 title = "Tomás Pimpinela | Hugo SSG"
